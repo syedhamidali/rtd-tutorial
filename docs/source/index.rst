@@ -20,3 +20,4 @@ Contents
 
    usage
    api
+PyScanCf has its documentation hosted on Read the Docs.
